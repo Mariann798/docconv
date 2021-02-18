@@ -1,4 +1,4 @@
-module code.sajari.com/docconv
+module github.com/Mariann798/docconv
 
 go 1.14
 
